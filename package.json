@@ -9,5 +9,8 @@
   },
   "scripts": {
     "build": "node ."
+  },
+  "dependencies": {
+    "make-dir": "^1.0.0"
   }
 }
