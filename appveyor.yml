@@ -26,7 +26,6 @@ deploy:
   - provider: GitHub
     auth_token:
       secure: DLJb4fuTIyqr4yW+MYt6coUoGmnDqa7hb5Z54w7p1neAS50lgD3tRAPdGkqK8C19
-    description: Release description
     artifact: files
     on:
       appveyor_repo_tag: true
