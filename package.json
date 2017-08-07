@@ -1,0 +1,10 @@
+{
+  "name": "test-appveyor",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoltesDigital/test-appveyor.git"
+  }
+}
