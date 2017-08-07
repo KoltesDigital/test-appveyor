@@ -6,5 +6,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KoltesDigital/test-appveyor.git"
+  },
+  "scripts": {
+    "build": "node ."
   }
 }
