@@ -28,5 +28,4 @@ deploy:
     description: Release description
     artifact: dist\*.txt
     on:
-      branch: master
       appveyor_repo_tag: true
