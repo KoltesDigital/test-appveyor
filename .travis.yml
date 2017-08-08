@@ -24,13 +24,6 @@ cache:
   - '$HOME/.cache/electron-builder'
   - '$HOME/.npm/_prebuilds'
 
-addons:
-  apt:
-    packages:
-      - graphicsmagick
-      - icnsutils
-      - xz-utils
-
 install:
   - npm install
 
